@@ -261,6 +261,7 @@ public class GTAman extends JPanel implements ActionListener, KeyListener {
                 lives -= 1;
                 if (lives == 0) {
                     gameOver = true;
+                    BlackJack blackJack = new BlackJack();
                     return;
                 }
                 resetPositions();
