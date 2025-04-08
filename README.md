@@ -1,9 +1,10 @@
-# GTAman
+# GTAman 
+# watch the Video
 Creator: Idris Sampson
 Co-Creator:Chatgpt
 You love GTA or better yet, you love pac-man  it doesnt matter since we got both
 I bet you are asking how you play my amazing game
-well all you need to do is download the zip file provided 
+well all you need to do is download the raw zip file provided 
 once you download it extract it
 Press the windows icon and lookup CMD/command prompt
 once you do that use the cd command to go to the directory where you downloaded the file example(cd Downloads\GTAman)
