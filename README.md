@@ -1,7 +1,7 @@
 # GTAman
 Creator: Idris Sampson
 Co-Creator:Chatgpt
-You love GTA or yet do you love pac-man  it doesnt matter since we got both
+You love GTA or better yet, you love pac-man  it doesnt matter since we got both
 I bet you are asking how you play my amazing game
 well all you need to do is download the zip file provided 
 once you download it extract it
